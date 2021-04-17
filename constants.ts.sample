@@ -1,0 +1,4 @@
+export const CONSTANTS = {
+  TOKEN_BOT: "XXX",
+  TOKEN_USER: "XXX",
+};
